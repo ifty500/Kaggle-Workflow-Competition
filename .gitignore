@@ -2,9 +2,5 @@
 images
 Titanic Survivor Prediction.ipynb
 debug.log
-submission.csv
-test.csv
-train.csv
-formulate_holdout.csv
-sample_submission.csv
+*.csv
 finalie_model.pkl
