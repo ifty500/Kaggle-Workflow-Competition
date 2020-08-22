@@ -3,4 +3,4 @@ images
 Titanic Survivor Prediction.ipynb
 debug.log
 *.csv
-finalie_model.pkl
+*.pkl
